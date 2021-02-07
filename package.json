@@ -1,0 +1,21 @@
+{
+  "name": "init",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "amfe-flexible": "^2.2.1",
+    "echarts": "^5.0.1",
+    "vant": "^3.0.6",
+    "vue": "^3.0.4",
+    "vue-router": "^4.0.3"
+  },
+  "devDependencies": {
+    "@vue/compiler-sfc": "^3.0.4",
+    "postcss-pxtorem": "^5.1.1",
+    "sass": "^1.32.6",
+    "vite": "^1.0.0-rc.13"
+  }
+}
